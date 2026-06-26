@@ -28,5 +28,10 @@ The dataset was cleaned and transformed using Power Query before building the da
 
 ![Big Mart Dashboard](Dashboard.png)
 
+## Analysis Video
+
+A walkthrough of the Big Mart Retail Insights Dashboard demonstrating the interactive slicers, KPI cards, charts, and insights generated using Power BI.
+
+🎥 **Project Demo:** `Analysis.mp4`
 ## Author
 Sangeetha
