@@ -18,8 +18,10 @@ This interactive Power BI dashboard provides insights into Big Mart retail sales
 - DAX
 - Excel
 
+
 ## Dashboard Preview
-(Add a screenshot here after uploading Dashboard.png)
+
+![Big Mart Dashboard](Dashboard.png)
 
 ## Author
 Sangeetha
