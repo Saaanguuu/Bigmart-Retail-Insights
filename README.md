@@ -21,7 +21,7 @@ This interactive Power BI dashboard provides insights into Big Mart retail sales
 
 ## Dashboard Preview
 
-![Big Mart Dashboard](Dashboard.png)
+[Big Mart Dashboard](Dashboard.png)
 
 ## Author
 Sangeetha
