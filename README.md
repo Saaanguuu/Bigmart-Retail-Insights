@@ -18,6 +18,11 @@ This interactive Power BI dashboard provides insights into Big Mart retail sales
 - DAX
 - Excel
 
+## Power Query Editor
+
+The dataset was cleaned and transformed using Power Query before building the dashboard. Data preprocessing included handling missing values, correcting data types, removing duplicates, and preparing the dataset for analysis.
+
+![Power Query Editor](Power_Query.png)
 
 ## Dashboard Preview
 
