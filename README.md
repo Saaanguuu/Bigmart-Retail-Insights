@@ -26,7 +26,7 @@ The dataset was cleaned and transformed using Power Query before building the da
 
 ## Dashboard Preview
 
-[Big Mart Dashboard](Dashboard.png)
+![Big Mart Dashboard](Dashboard.png)
 
 ## Author
 Sangeetha
